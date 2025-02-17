@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run ETL",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/run_etl.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
