@@ -134,10 +134,6 @@ This project was initially self-started and developed over a couple of weeks, wi
 
 Web scraping may be against the Terms of Service of some websites. This tool is for educational purposes only. Please review the Terms of Service of any website before scraping it.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgements
 
 - [Selenium](https://www.selenium.dev/)
