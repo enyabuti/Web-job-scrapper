@@ -7,19 +7,19 @@ A Python application that scrapes job listings from LinkedIn and Glassdoor using
 ![image](https://github.com/user-attachments/assets/e5db4b30-823c-44a8-8f43-324723c64c27)
 
 
-## 📚 Overview
+## Overview
 
 This tool automatically gathers job postings from the past week across multiple job platforms (currently LinkedIn and Glassdoor) for specified keywords. Perfect for job seekers who want to stay on top of new opportunities without manually visiting multiple sites.
 
-## ✨ Features
+## Features
 
-- 🔍 Scrapes jobs posted within the last 7 days
-- 🔄 Supports multiple job platforms (LinkedIn, Glassdoor)
-- 🤖 Uses headless browser to minimize resource usage
-- ✅ Validates job listings to ensure data quality
-- 📊 Provides summary statistics of jobs found by source
+-  Scrapes jobs posted within the last 7 days
+- Supports multiple job platforms (LinkedIn, Glassdoor)
+-  Uses headless browser to minimize resource usage
+-  Validates job listings to ensure data quality
+-  Provides summary statistics of jobs found by source
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Browser Automation
 
@@ -117,7 +117,7 @@ LinkedIn: 32 jobs
 Glassdoor: 15 jobs
 ```
 
-## 📋 Future Enhancements
+## Future Enhancements
 
 - [ ] Add support for Indeed and Monster
 - [ ] Implement advanced filtering (salary range, job type)
@@ -125,15 +125,15 @@ Glassdoor: 15 jobs
 - [ ] Add email notifications for new matching positions
 - [ ] Implement scheduler for daily/weekly runs
 
-## 👨‍💻 Development
+##  Development
 
 This project was initially self-started and developed over a couple of weeks, with significant enhancements made using Cursor AI. It demonstrates how AI-assisted coding can streamline development while preserving the programmer's vision and architecture decisions.
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 Web scraping may be against the Terms of Service of some websites. This tool is for educational purposes only. Please review the Terms of Service of any website before scraping it.
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Selenium](https://www.selenium.dev/)
 - [Chrome WebDriver](https://chromedriver.chromium.org/)
