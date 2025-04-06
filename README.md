@@ -142,3 +142,5 @@ Web scraping may be against the Terms of Service of some websites. This tool is 
 ---
 
 If you find this project useful, please consider giving it a ⭐!
+
+# I utitilized ChatGPT to help me with the project.
